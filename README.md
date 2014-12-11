@@ -1,2 +1,2 @@
-Title:	Emacs configuration
-Author: Simon Nordberg
+Title:	Emacs configuration  
+Author: Simon Nordberg  
